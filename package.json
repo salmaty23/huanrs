@@ -1,5 +1,5 @@
 {
-  "name": "HuanR",
+  "name": "huanr",
   "version": "1.0.3",
   "description": "A library that helps you calculate the sum of any 5 numbers",
   "main": "index.js",
@@ -21,6 +21,6 @@
     "tong",
     "cong"
   ],
-  "author": "HuanR",
+  "author": "huanr",
   "license": "HUA"
 }
