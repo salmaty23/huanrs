@@ -1,0 +1,26 @@
+{
+  "name": "HuanR",
+  "version": "1.0.3",
+  "description": "A library that helps you calculate the sum of any 5 numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salmaty23/huanrs"
+  },
+  "homepage": "https://x.com/HuanR0se",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "HuanR",
+  "license": "HUA"
+}
